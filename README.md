@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/roshaan-tahir-7a30a3262/" target="blank">    
 <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/roshaantahir/" target="blank">
+<a href="https://leetcode.com/u/RoshaanTahir/" target="blank">
    <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
 </a>
 <a href="https://www.geeksforgeeks.org/user/roshaan1/" target="blank">
