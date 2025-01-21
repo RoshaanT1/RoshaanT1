@@ -24,7 +24,7 @@
 <a href="https://www.leetcode.com/https://leetcode.com/u/roshaantahir/" target="blank">
    <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
 </a>
-<a href="https://auth.geeksforgeeks.org/user/user/roshaan1/" target="blank">
+<a href="https://www.geeksforgeeks.org/user/roshaan1/" target="blank">
   <img src="https://img.shields.io/badge/-GeeksforGeeks-5E9B3A?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="user/roshaan1/"/>
 </a>
   <a href="mailto:roshaantahir.tahir2005@gmail.com" target="_blank">
