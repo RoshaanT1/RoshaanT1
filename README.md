@@ -77,8 +77,8 @@
 </p>
 <div style="display: flex; justify-content: center; align-items: center;">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshaanH&theme=algolia&show_icons=true&hide_border=true&layout=compact" alt="RoshaanH's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshaanT1&theme=algolia&show_icons=true&hide_border=true&layout=compact" alt="Roshaan's GitHub Stats" />
 
-<img  src="https://github-readme-stats.vercel.app/api?username=RoshaanH&theme=algolia&show_icons=true&hide_border=true&count_private=true" alt="RoshaanH's GitHub Stats" />
+<img  src="https://github-readme-stats.vercel.app/api?username=RoshaanT1&theme=algolia&show_icons=true&hide_border=true&count_private=true" alt="Roshaan's GitHub Stats" />
 
 </div>
