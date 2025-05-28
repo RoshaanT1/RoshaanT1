@@ -2,9 +2,10 @@
 <h1 align="left">Hi there👋 </h1>
 
 
-<p align="left">My name is Roshaan Tahir and I'm a Developer, from Pakistan.</p>
+<p align="left">My name is Roshaan Tahir and I'm a Developer,
+   from Pakistan.</p>
 
-<img src="https://komarev.com/ghpvc/?username=RoshaanT1&label=Visitors&color=0e75b6&style=flat" style="display:none;" />
+<img src="https://komarev.com/ghpvc/?username=RoshaanT1&label=Visitors&color=0e75b6&style=flat" width="0" height="0" />
 
 ### 💻 About Me  
 - 🌐 ***Web Development Enthusiast***: Actively building projects on DataCamp and exploring web technologies
